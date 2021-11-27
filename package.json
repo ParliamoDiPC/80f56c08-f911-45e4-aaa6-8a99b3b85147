@@ -1,0 +1,23 @@
+{
+  "name": "80f56c08-f911-45e4-aaa6-8a99b3b85147",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParliamodiPC/80f56c08-f911-45e4-aaa6-8a99b3b85147.git"
+  },
+  "author": "ParliamoDiPC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ParliamodiPC/80f56c08-f911-45e4-aaa6-8a99b3b85147/issues"
+  },
+  "homepage": "https://github.com/ParliamodiPC/80f56c08-f911-45e4-aaa6-8a99b3b85147#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "telegraf": "^4.4.2"
+  }
+}
